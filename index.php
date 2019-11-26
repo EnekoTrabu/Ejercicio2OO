@@ -18,3 +18,4 @@ $actividad->setFecha(date('d/m/Y', mktime(30, 12, 2019)));
 $actividad->mostrar();
 
 include "includes/pie.php";
+//otro comentario de Idoia
