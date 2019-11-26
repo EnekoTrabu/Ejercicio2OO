@@ -18,8 +18,5 @@ $actividad->setFecha(date('d/m/Y', mktime(30, 12, 2019)));
 $actividad->mostrar();
 
 include "includes/pie.php";
-<<<<<<< HEAD
 //Este comentario esta hecho por Daniel para probar ramas
-=======
 //Este comentario esta hecho en la rama Eneko
->>>>>>> 956a746f89528c77dd20ea0e0037f7bcd84af87d
